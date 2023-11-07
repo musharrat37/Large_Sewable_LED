@@ -4,7 +4,10 @@ These sewable LEDs are larger than the original Lilypad LEDs, to make them a lit
 
 
 ![alt text](https://github.com/KitMcDermott/Large_Sewable_LED/edit/master/images/CroppedLEDPic.jpg?raw=true)
-
+<p align="center">
+  <img src="[https://github.com/KitMcDermott/Large_Sewable_LED/edit/master/images/CroppedLEDPic.jpg]" width="350" title="Large LED">
+  <img src="[https://github.com/KitMcDermott/Large_Sewable_LED/edit/master/images/CroppedLEDPic.jpg]" width="350" alt="Large Sewable LED">
+</p>
 
 These boards are based on the following design, the hookup guide should still apply: 
 
