@@ -6,6 +6,8 @@ These sewable LEDs are larger than the original Lilypad LEDs, to make them a lit
   <img src="https://github.com/KitMcDermott/Large_Sewable_LED/edit/master/images/CroppedLEDPic.jpg" width="350" title="Large LED">
 </p>
 
+![Image 1](./images/CroppedLEDPic.jpg)
+
 These boards are based on the following design, the hookup guide should still apply: 
 
 [*LilyPad LED Rainbow Board(DEV-13903)*](https://www.sparkfun.com/products/13903)
